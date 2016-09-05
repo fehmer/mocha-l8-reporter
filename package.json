@@ -1,0 +1,22 @@
+{
+  "name": "mocha-l8-reporter",
+  "version": "1.0.0",
+  "description": "Mocha reporter using the L8 smartlight",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fehmer/mocha-l8-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "reporter",
+    "l8",
+    "smartlight"
+  ],
+  "author": "Christian Fehmer",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mocha": ">=2.0.0",
+    "l8smartlight": "https://github.com/fehmer/node-l8smartlight.git"
+  }
+}
