@@ -1,7 +1,10 @@
 # mocha l8 smartlight reporter
 
+[![npm version](https://badge.fury.io/js/mocha-l8-reporter.svg)](https://badge.fury.io/js/mocha-l8-reporter)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/24d1fb0af72d4f97a1c9f9c370a77d39)](https://www.codacy.com/app/fehmer/mocha-l8-reporter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fehmer/mocha-l8-reporter&amp;utm_campaign=Badge_Grade)
 
-Reporter unsing the [L8 Smartlight](http://l8smartlight.com/) as an extreme feedback device for mocha tests.
+
+Reporter using the [L8 Smartlight](http://l8smartlight.com/) as an extreme feedback device for mocha tests.
 
 ##Prerequisites
 

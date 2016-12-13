@@ -1,1 +1,1 @@
-module.exports = require('./lib/l8Reporter')
+module.exports = require('./lib/l8Reporter');
